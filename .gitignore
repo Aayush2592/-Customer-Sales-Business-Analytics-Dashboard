@@ -1,0 +1,15 @@
+# Power BI local workspace and backup files
+*.pbip
+*.pbit
+*.pbix~
+*.tmp
+
+# Local configuration and credentials
+.env
+.env.*
+*.user
+*.bak
+
+# Operating-system files
+.DS_Store
+Thumbs.db
